@@ -1,5 +1,5 @@
 # lscd
-A Lightweight Shared Convolutional Detection Method based yolov8 network
+Implement of the paper 'LSCD: A Lightweight Shared Convolutional Detection Method for Unmanned Aerial Vehicles Scenarios'
 
 
 
